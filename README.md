@@ -104,7 +104,6 @@
 | gRPC-Go | https://github.com/grpc/grpc-go | Google RPC 框架 |
 | gRPC 教程 | https://grpc.io/docs/languages/go/ | 官方文档 |
 | ProtoBuf | https://developers.google.com/protocol-buffers/docs/gotutorial | 序列化协议 |
-| go-zero RPC | https://go-zero.dev/docs/tasks/rpc/ | go-zero 框架 RPC |
 | Thrift Go | https://github.com/apache/thrift/tree/master/lib/go | Thrift 实现 |
 
 ### 服务治理
@@ -137,26 +136,18 @@
 | Go 微服务实战 36 讲 | https://time.geekbang.org/column/intro/100063901 | 极客时间课程 |
 | Micro Services in Go | https://ewanvalentine.io/microservices-in-golang-part-1/ | 英文系列教程 |
 
-### 视频教程
-
-| 名称 | 链接 | 说明 |
-|------|------|------|
-| B 站：Go 微服务入门 | https://www.bilibili.com/video/BV1QT4y1M7Jq | 微服务架构讲解 |
-| B 站：gRPC 实战 | https://www.bilibili.com/video/BV1pf4y1Y73c | RPC 通信详解 |
-| B 站：Kratos 框架 | https://www.bilibili.com/video/BV1JT4y1M7iM | B站框架使用 |
-| YouTube: Microservices with Go | https://www.youtube.com/watch?v=8zUA4Oj72Mw | Nic Jackson 系列 |
-| YouTube: Go Kit Tutorial | https://www.youtube.com/playlist?list=PLJbE2Yu2zumOnjB7k2CpuWBk-8D3UvET | 微服务工具包教程 |
 
 ## 七、标准库与生态
 
-| 名称 | 链接 | 说明 |
-|------|------|------|
-| Go 标准库文档 | https://pkg.go.dev/std | 标准库 API |
-| Awesome Go | https://github.com/avelino/awesome-go | 优秀项目集合 |
-| Go Modules 教程 | https://go.dev/blog/using-go-modules | 依赖管理 |
-| Go 网络编程 | https://astaxie.gitbooks.io/build-web-application-with-golang/ | Web 开发 |
-| Gin 框架 | https://gin-gonic.com/ | 流行 Web 框架 |
-| GORM | https://gorm.io/ | ORM 框架 |
+| 名称            | 链接                                                                                               | 说明 |
+|---------------|--------------------------------------------------------------------------------------------------|------|
+| Go 标准库文档      | https://pkg.go.dev/std                                                                           | 标准库 API |
+| Awesome Go    | https://github.com/avelino/awesome-go                                                            | 优秀项目集合 |
+| Go Modules 教程 | https://go.dev/blog/using-go-modules                                                             | 依赖管理 |
+| Go 网络编程       | https://astaxie.gitbooks.io/build-web-application-with-golang/                                   | Web 开发 |
+| Gin 框架        | https://gin-gonic.com/                                                                           | 流行 Web 框架 |
+| GORM          | https://gorm.io/                                                                                 | ORM 框架 |
+| workspace     | https://www.linkedin.com/pulse/start-workspace-your-go-module-development-vladimir-vivien-vcd4e/ | Workspace |
 
 ## 八、源码阅读与深入
 
