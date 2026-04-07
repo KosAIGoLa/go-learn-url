@@ -19,7 +19,7 @@
 | Go 语言之旅（中文） | https://tour.go-zh.org/ | 官方中文版 |
 | Go 编程基础（无闻） | https://github.com/Unknwon/go-fundamental-programming | 视频教程 |
 | Go 语言简明教程 | https://geektutu.com/post/quick-golang.html | 快速上手 |
-
+| Go 官方详解“Green Tea”垃圾回收器：从对象到页，一场应对现代硬件挑战的架构演进 | https://zhuanlan.zhihu.com/p/1967490735994564792 | 快速上手 |
 ## 三、视频教程（YouTube / Bilibili）
 
 ### YouTube 频道/播放列表
