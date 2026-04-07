@@ -29,30 +29,9 @@
 | freeCodeCamp Go | https://www.youtube.com/watch?v=YS4e4q9oBaU | 7小时完整入门课程 |
 | TechWorld with Nana | https://www.youtube.com/watch?v=yyUHQIec83I | Go 基础到实战 |
 | Go Programming Tutorials | https://www.youtube.com/playlist?list=PLzMcBGsttwgHKXPDdw2PtqWzJ35iJJ3zU | Tech With Tim 系列 |
-| Golang Dojo | https://www.youtube.com/c/GolangDojo | 项目实战教程 |
 | Todd McLeod | https://www.youtube.com/playlist?list=PLSak_q1UXfPp2VwUQJ3dy4T1CwZ7rKJ2L | 大学级别课程 |
-| JustForFunc | https://www.youtube.com/c/JustForFunc | Francesc Campoy 讲解 |
-| Ardan Labs | https://www.youtube.com/c/ArdanLabs | 企业级 Go 培训 |
-| Jake Wright | https://www.youtube.com/playlist?list=PLK7PffhSIjXl47FzIkDWa1gFjrmjKqM9m | 简明入门系列 |
-| Alex Pliutau | https://www.youtube.com/c/AlexPliutau | 微服务实战 |
-| Hussein Nasser | https://www.youtube.com/c/HusseinNasser-software-engineering | 系统设计结合 Go |
 
-### Bilibili 频道/视频
 
-| 名称 | 链接 | 说明 |
-|------|------|------|
-| 尚硅谷 Go 语言 | https://www.bilibili.com/video/BV1ME411Y71o | 系统入门课程 |
-| 狂神说 Go | https://www.bilibili.com/video/BV1S54y1W7uE | 零基础快速上手 |
-| 极客时间 Go 课程 | https://www.bilibili.com/video/BV1gf4y1r79E | 极客大学出品 |
-| 无闻 Go 编程基础 | https://www.bilibili.com/video/BV1fR4y1F7Zq | 经典入门系列 |
-| 刘丹冰 Aceld | https://space.bilibili.com/474073704 | Golang 专题讲解 |
-| 技术蛋老师 | https://www.bilibili.com/video/BV1DU4y1K7wz | 图解 Go 语言 |
-| 幼麟实验室 | https://space.bilibili.com/667314821 | Go 源码解析 |
-| 极客兔兔 | https://www.bilibili.com/video/BV17b411J7Ge | 手写框架系列 |
-| 尚硅谷 Go Web | https://www.bilibili.com/video/BV1nE411x78g | Web 开发实战 |
-| 码神之路 | https://space.bilibili.com/487952013 | 项目实战讲解 |
-| Go 夜读直播 | https://space.bilibili.com/326749661 | 源码共读活动 |
-| 程序员鱼皮 | https://space.bilibili.com/12890453 | 项目实战分享 |
 
 ## 四、进阶学习
 
@@ -63,7 +42,6 @@
 | Go 101 | https://go101.org/ | 深入语言细节 |
 | Uber Go 风格指南 | https://github.com/uber-go/guide/blob/master/style.md | 企业级编码规范 |
 | Effective Go | https://go.dev/doc/effective_go | 高效编程指南 |
-| Go 语言实战 | https://www.manning.com/books/go-in-action | 实战书籍 |
 
 ## 四、并发与协程深入
 
@@ -74,8 +52,6 @@
 | Go 并发编程实战 | https://books.studygolang.com/concurrent-go/ | 并发模式详解 |
 | Go 内存模型 | https://go.dev/ref/mem | 内存一致性规范 |
 | Go 调度器详解 (Ardan) | https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html | GMP 调度原理 3部曲 |
-| Go 调度器可视化 | https://github.com/natsukagami/go-parallel-diagram | 调度过程图解 |
-| Go 并发模式 | https://github.com/tmrts/go-patterns/blob/master/concurrency/README.md | 常见并发模式集合 |
 | Go 并发可视化 | https://divan.dev/posts/go_concurrency_visualize/ | 用动画理解并发 |
 
 ### 源码级深入
