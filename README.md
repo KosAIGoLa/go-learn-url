@@ -103,12 +103,12 @@
 
 ### 视频教程
 
-| 名称 | 链接 | 说明 |
-|------|------|------|
-| B 站：GMP 调度原理 | https://www.bilibili.com/video/BV1Uv41177ZC | 调度器可视化讲解 |
-| B 站：Go 并发模式 | https://www.bilibili.com/video/BV1gf4y1r79E | 并发设计模式 |
-| YouTube: Concurrency Patterns | https://www.youtube.com/watch?v=YEKjSzIwAdA | Google I/O 演讲 |
-| YouTube: Go Scheduler | https://www.youtube.com/watch?v=DTAZ9v0mtOw | GopherCon 演讲 |
+| 名称 | 链接 | 说明                                                                             |
+|------|------|--------------------------------------------------------------------------------|
+| B 站：GMP 调度原理 | https://www.bilibili.com/video/BV1p9sPzFEBM/?spm_id_from=333.337.search-card.all.click&vd_source=44f2f46e79d89a840efba0f01da08b0b |                                                                                |
+| B 站：Go 并发模式 | https://www.bilibili.com/video/BV11C1iBZEJg/?spm_id_from=333.337.search-card.all.click&vd_source=44f2f46e79d89a840efba0f01da08b0b | 并发设计模式                                                                         |
+| YouTube: Concurrency Patterns | https://www.youtube.com/watch?v=-xEycsoGoA8&list=PL7yAAGMOat_Fhj_px_DzNzTsXs-mRwv1t | Learning Golang: Introduction to Concurrency Patterns, goroutines and channels |
+| YouTube: Go Scheduler | https://www.youtube.com/watch?v=B-ozWjqnX24 |  Go Scheduler 源码阅读 【 Go 夜读 】                                                               |
 
 ## 五、Go 微服务架构
 
